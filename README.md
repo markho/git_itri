@@ -3,6 +3,24 @@ git_itri
 
 Project manament introduction
 
+*******
+
+# Citation
+
+* [Yahoo] (http://www.yahoo.com) check *availability*
+* [pchome] (http://www.pchome.com.tw) **very** convenient
+
+# Project factor
+
+* resource
++ schedule
++ scope
+
+1. Form a team
+2. insert some ....
+2. Plan for high level scope
+2. Plan for a release
+
 專案管理分為Agile,Scrum
 =======================
 
