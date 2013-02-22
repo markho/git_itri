@@ -20,6 +20,17 @@ Scrum是一種實作
 
 ### Issue management
 
+#### More miner
+
+##### .....
+
+###### ****
+
+> Resource is not limited,
+ In shortest time, finish this part
+ ASAP.....
+>> Quote inside quote
+
 <br/>
 
 <br/>
